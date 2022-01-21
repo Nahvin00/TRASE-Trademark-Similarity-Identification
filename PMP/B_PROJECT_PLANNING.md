@@ -57,7 +57,7 @@ Nik Nor Alifah Ilyana binti Abd Malik	| Test Manager	| Planning, coordination an
 
 Modules/Components	| Budget	| Schedule	| Responsibility
 --- | --- | --- | ---
-Entire Project	| RM 1 000 000	| 04/10/2021 - 14/01/2022	| Data Collection, Model Training, User Interface, System Functionality
+Entire Project	| RM 800 000	| 04/10/2021 - 14/01/2022	| Data Collection, Model Training, User Interface, System Functionality
 
 <p align="center">
   <em>Table 3: Budget Planning of TRASE</em>
