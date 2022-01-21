@@ -1,1 +1,2 @@
-
+<br><br>
+Next: [Project Planning](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/B_PROJECT_PLANNING.md)
