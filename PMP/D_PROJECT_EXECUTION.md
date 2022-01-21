@@ -97,4 +97,6 @@ Figures below shows the integrated UI of TRASE and results.
     <img src="https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/blob/main/PMP/assets/18.png">
   <br> <em>Figure 13: Result 3</em>
 </p>
-<br>
+
+<br><br>
+Next: [Project Closing](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/E_PROJECT_CLOSING.md)
