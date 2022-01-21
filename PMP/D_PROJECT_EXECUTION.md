@@ -1,5 +1,5 @@
 # D. PROJECT EXECUTION
-**Project Design:**
+### **Project Design:**
 
 The flowchart below illustrates the sequence of processes implemented in TRASE.
 <br>
@@ -11,7 +11,7 @@ The flowchart below illustrates the sequence of processes implemented in TRASE.
 <br>
 <br>
 
-**Code Snippets:**
+### **Code Snippets:**
 
 The code snippet below shows initialized head_jamos, body_jamos, tail_jamos which has been used to romanize string inputs.
 <br>
@@ -81,7 +81,7 @@ The code snippet below shows the defined functions for button click action.
 <br>
 <br>
 
-**Project Result:**
+### **Project Result:**
 
 Figures below shows the integrated UI of TRASE and results.
 <p align="center">
