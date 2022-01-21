@@ -97,4 +97,4 @@ Figures below shows the integrated UI of TRASE and results using PyQt5.
 </p>
 
 <br><br>
-Next: [Project Closing](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/blob/main/PMP/E_PROJECT_CLOSURE.md)
+Next: [Project Closure](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/blob/main/PMP/E_PROJECT_CLOSURE.md)
