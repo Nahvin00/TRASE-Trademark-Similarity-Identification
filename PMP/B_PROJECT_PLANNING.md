@@ -64,4 +64,4 @@ Entire Project	| RM 1 000 000	| 04/10/2021 - 14/01/2022	| Data Collection, Model
 </p>
 
 <br><br>
-**Next: [Project Implementation](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/C_PROJECT_IMPLEMENTATION.md)**
+**Next: [Project Implementation](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/blob/main/PMP/C_PROJECT_IMPLEMENTATION.md)**
