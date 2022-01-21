@@ -1,4 +1,8 @@
 # A. PROJECT DEFINITION
+### **Project Name:**
+TRASE: Trademark Similarity Identification System
+
+
 ### **Project Summary:**
 Trademarking is not a simple task, because it requires not only a unique name but also the approval of the board. Some companies find it hard to trademark due to the long time and tedious process it takes to trademark anything. Also, there are problems of others trying to copy or mimic your brand logo or name. Therefore, we have decided to make it easier for other companies to register themselves through this project.
 
@@ -7,10 +11,6 @@ Thus, each company has its uniqueness to itself. With this in mind, we can build
 
 ### **Customer:**
 MyIPO Corporation
-
-
-### **Project Name:**
-TRASE: Trademark Similarity Identification System
 
 
 ### **Team Members:**
