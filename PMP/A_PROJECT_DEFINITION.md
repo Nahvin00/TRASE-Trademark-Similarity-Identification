@@ -1,4 +1,4 @@
-# A. DEFINING THE PROJECT
+# A. PROJECT DEFINITION
 ### Project Summary:
 Trademarking is not a simple task, because it requires not only a unique name but also the approval of the board. Some companies find it hard to trademark due to the long time and tedious process it takes to trademark anything. Also, there are problems of others trying to copy or mimic your brand logo or name. Therefore, we have decided to make it easier for other companies to register themselves through this project.
 
