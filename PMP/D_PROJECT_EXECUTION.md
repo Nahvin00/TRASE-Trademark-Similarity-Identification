@@ -1,5 +1,5 @@
 # D. PROJECT EXECUTION
-### **Project Design:**
+**Project Design:**
 
 The flowchart below illustrates the sequence of processes implemented in TRASE.
 <br>
@@ -9,9 +9,8 @@ The flowchart below illustrates the sequence of processes implemented in TRASE.
 </p>
 <br>
 <br>
-<br>
 
-### **Code Snippets:**
+**Code Snippets:**
 
 The code snippet below shows initialized head_jamos, body_jamos, tail_jamos which has been used to romanize string inputs.
 <br>
@@ -79,9 +78,8 @@ The code snippet below shows the defined functions for button click action.
 </p>
 <br>
 <br>
-<br>
 
-### **Project Result:**
+**Project Result:**
 
 Figures below shows the integrated UI of TRASE and results.
 <p align="center">
@@ -99,4 +97,4 @@ Figures below shows the integrated UI of TRASE and results.
 </p>
 
 <br><br>
-**Next: [Project Closing](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/E_PROJECT_CLOSING.md)**
+Next: [Project Closing](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/E_PROJECT_CLOSING.md)
