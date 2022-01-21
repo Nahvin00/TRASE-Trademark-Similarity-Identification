@@ -1,4 +1,4 @@
-# E. PROJECT CLOSING
+# E. PROJECT CLOSURE
 ### **Customer Acceptance Form:**
 
 An Acceptance Form helps to gain acceptance from the customer that what have produced meets their needs. An Acceptance Form lists all of the Acceptance Criteria for gaining their approval, and it documents the results of any acceptance testing carried out. In this case, our customer is ***MyIPO Corporation***.
