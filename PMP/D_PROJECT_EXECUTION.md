@@ -81,7 +81,7 @@ The code snippet below shows the defined functions for button click action.
 
 **Project Result:**
 
-Figures below shows the integrated UI of TRASE and results.
+Figures below shows the integrated UI of TRASE and results using PyQt5.
 <p align="center">
     <img src="https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/blob/main/PMP/assets/15.png">
   <br> <em>Figure 10: Main Screen</em>
