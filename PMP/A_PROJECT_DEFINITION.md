@@ -27,4 +27,4 @@ TRASE: Trademark Similarity Identification System
 - To remove the long span of trademarking.
 
 <br><br>
-**Next: [Project Planning](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/B_PROJECT_PLANNING.md)**
+**Next: [Project Planning](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/blob/main/PMP/B_PROJECT_PLANNING.md)**
