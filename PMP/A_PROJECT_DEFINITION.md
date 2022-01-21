@@ -6,7 +6,7 @@ Thus, each company has its uniqueness to itself. With this in mind, we can build
 
 
 ### **Customer:**
-Companies that want to trademark.
+MyIPO Corporation
 
 
 ### **Project Name:**
