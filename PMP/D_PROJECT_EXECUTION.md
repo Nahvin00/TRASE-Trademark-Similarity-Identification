@@ -99,4 +99,4 @@ Figures below shows the integrated UI of TRASE and results.
 </p>
 
 <br><br>
-Next: [Project Closing](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/E_PROJECT_CLOSING.md)
+**Next: [Project Closing](https://github.com/Nahvin00/TRASE-Trademark-Similarity-Identification/edit/main/PMP/E_PROJECT_CLOSING.md)**
